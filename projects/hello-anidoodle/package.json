@@ -1,0 +1,11 @@
+{
+  "name": "scene",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "still": "node '../../engine/anidoodle/engine/tools/still.mjs' scene",
+    "render": "node '../../engine/anidoodle/engine/tools/render.mjs' scene",
+    "framecheck": "node '../../engine/anidoodle/engine/tools/framecheck.mjs' scene",
+    "ship": "node '../../engine/anidoodle/engine/tools/ship.mjs' scene"
+  }
+}

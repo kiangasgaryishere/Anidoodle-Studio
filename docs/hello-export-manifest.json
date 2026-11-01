@@ -1,0 +1,18 @@
+{
+  "frame-0.png": {
+    "bytes": 1161963,
+    "sha256": "2d59a095304a2b5318b04d3839bf021edfab336ed2dc551b4c0a2b7f11f04ee2"
+  },
+  "hello-anidoodle.gif": {
+    "bytes": 2499411,
+    "sha256": "cb3af3b2f6dd72869bdd524168be68706e6c05e5cad12780c8d490d2c8e85f0a"
+  },
+  "hello-anidoodle.mp4": {
+    "bytes": 499101,
+    "sha256": "e02c8a19482b07d712777ab2296e4e9af965447543a5e14a6573afde476747be"
+  },
+  "hello-anidoodle.html": {
+    "bytes": 39301,
+    "sha256": "d60163ec626faa15c64c56670d20848e0d47a10ab716d111b5cc87e48d7a501b"
+  }
+}
